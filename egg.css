@@ -1,0 +1,10 @@
+
+div
+{
+   background-color:red;
+   border-radius:50% 50% 50% 50% / 60% 60% 40% 40%;
+   -webkit-border-radius:50% 50% 50% 50% / 60% 60% 40% 40%;
+   -moz-border-radius:50% 50% 50% 50% / 60% 60% 40% 40%;
+   height:400px;
+   width:300px
+}
